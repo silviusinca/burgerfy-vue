@@ -1,4 +1,4 @@
-# burgerfy
+# burgerfy https://burgerfy-vue-project.firebaseapp.com/
 
 > A Vue.js project
 
